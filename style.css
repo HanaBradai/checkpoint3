@@ -1,0 +1,66 @@
+body{
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f0f0f0;
+    color: #333;
+}
+header {
+    background-color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.navbar li {
+    display: inline;
+    margin-right: 10px;
+}
+.navbar a {
+    text-decoration: none;
+    color: rgb(77, 3, 77);
+    padding: 5px 10px;
+}
+main {
+    padding: 20px;
+}
+section {
+    margin-bottom: 20px;
+}
+section h1 {
+    color: rgb(168, 3, 3);
+    text-align: center;
+}
+section h3 {
+    color: black;
+}
+section h4 {
+    color: gray;
+}
+section p {
+    margin-bottom: 15px;
+
+}
+.skills{
+    color: rgb(209, 80, 80);
+}
+.button{
+    background-color: blue;
+}
+footer{
+    background-color: #333;
+    padding: 20px;
+    text-align: center;
+}
+footer h1{
+    color: rgb(168, 3, 3);
+}
+footer a {
+    color: #fff;
+    text-decoration: underline;
+}
+footer h4{
+    color: white;
+}
+.image{
+    display: flex;
+    justify-content: space-between;
+
+}
